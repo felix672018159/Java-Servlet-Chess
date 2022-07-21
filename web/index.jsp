@@ -157,7 +157,7 @@
                    }else{              //jika banyak step bernilai genap
                        out.print("Sekarang langkah : WARNA HITAM<br>");
                    }
-                   out.print("apakah game berakhir ? ");
+                   out.print("apakah game berakhir ??? ");
                    if(cek_gameberakhir.equals("1")){
                        out.print("GAME SUDAH BERAKHIR");
                    }

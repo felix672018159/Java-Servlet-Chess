@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="TR_PEMROGRAMAN_LANJUT_F_CATUR" default="default" basedir=".">
-    <description>Builds, tests, and runs the project TR_PEMROGRAMAN_LANJUT_F_CATUR.</description>
+<project name="JAVA-SERVLET-CHESS" default="default" basedir=".">
+    <description>Builds, tests, and runs the project JAVA-SERVLET-CHESS.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
